@@ -1,0 +1,26 @@
+/* 
+    Document   : basicStyles
+    Created on : Jun 17, 2013, 8:59:17 AM
+    Author     : Asa
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+html { 
+    height: 100%;
+    background-color: #3a4147;
+}
+#centralImage {
+    padding-top: 10%;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+#centralImage img{
+    width: 257px;
+    padding: 0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
